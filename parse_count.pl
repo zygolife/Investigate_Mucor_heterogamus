@@ -1,5 +1,7 @@
 #!/usr/bin/env perl
 #
+# USGAE: perl parse_count.pl Mhet.proteinortho > Mhet.proteinortho.Count_report.txt
+#
 use strict;
 use warnings;
 
